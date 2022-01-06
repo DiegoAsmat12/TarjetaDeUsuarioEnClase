@@ -9,7 +9,7 @@ body{
 .container{
     margin: 10px auto;
     border: 2px solid rgb(160,160,160);
-    width: 540px;
+    width: 500px;
 }
 .location>.city{
     vertical-align: 2px;
